@@ -135,7 +135,7 @@ Handled dashboard development challenges through self-guided research, experimen
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](https://github.com/user-attachments/assets/3a25ad52-467d-4abd-90aa-9af4de23ca5a)
+<img width="1321" height="737" alt="image" src="https://github.com/user-attachments/assets/e32fb16b-8d97-4230-9934-b88e5be4afe6" />
 
 ---
 
