@@ -348,7 +348,7 @@ CALCULATE(
 
 ## 📸 Dashboard Preview
 
-![SuperStore Sales Dashboard](https://github.com/user-attachments/assets/c356f8dd-1c98-4bcd-b14f-f4b871a27927)
+<img width="1330" height="742" alt="image" src="https://github.com/user-attachments/assets/a84fedd4-5e70-4644-9196-2c788ba8c0b3" />
 
 ---
 
